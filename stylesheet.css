@@ -5,19 +5,37 @@ body {
 
 #nameheader { 
 
-    color: antiquewhite;
+    color: white;
     font-family: 'Rubik', sans-serif;
     font-size: 45px;
     font-weight: bolder;
 }
 
+#titleheader { 
+
+    color: white;
+    font-family: 'Rubik', sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
 .sectionheader{
 
-color:antiquewhite;
+color:white;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 font-size: 30px;
 cursor: pointer; cursor: hand;
 
+}
+
+.container
+{
+    text-align: center;
+}
+
+.contentdiv
+{
+    padding-bottom: 5px;
 }
 
 .subsection{
