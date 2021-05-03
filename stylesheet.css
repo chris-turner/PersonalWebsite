@@ -38,6 +38,10 @@ cursor: pointer; cursor: hand;
     padding-bottom: 5px;
 }
 
+.linkicon{
+    padding-right: 10px;
+}
+
 .subsection{
 
 color: silver;
