@@ -11,11 +11,15 @@ body {
     font-weight: bolder;
 }
 
+.projectdiv{
+    padding-top:90px;
+}
+
 #titleheader { 
 
     color: white;
     font-family: 'Rubik', sans-serif;
-    font-size: 25px;
+    font-size: 45px;
     font-weight: bolder;
 }
 
